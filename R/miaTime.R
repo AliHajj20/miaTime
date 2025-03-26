@@ -138,3 +138,16 @@ NULL
 #' @keywords data
 #'
 NULL
+#' data_survival is a simulated dataset based on the Crohn's disease microbiome study,
+#' Survival study microbiome data from 150 individuals
+#' Time points=150
+#' data_survival is a dataset containing microbiome compositional data analyzed
+#' for survival studies.
+#' @format A TreeSE with 150 features and 150 samples.
+#' @name crohn_survival
+#' @author Pujolassos et al.
+#' @references
+#' Pujolassos M, et al. (2024).
+#' Microbiome compositional data analysis for survival studies.
+#' NAR Genomics and Bioinformatics.
+#' \url{https://doi.org/10.5281/zenodo.10552383}
