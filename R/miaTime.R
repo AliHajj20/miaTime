@@ -138,3 +138,14 @@ NULL
 #' @keywords data
 #'
 NULL
+#' Survival microbiome data from 150 individuals with longitudinal measurements
+#' crohn_survival is a simulated dataset based on the Crohn's disease microbiome study,
+#' containing survival data with microbiome composition for 150 individuals measured
+#' at 150 time points. Event==1 indicates Crohn's disease, and Event==0 indicates control.
+#' The data is designed for compositional analysis of microbiome.
+#' Name of dataset: @crohn_survival
+#' Format of the dataset: TreeSummarisedExperiment
+#' Rows/features = 150
+#' Taxa: 48
+#' Reference: DOI 10.5281/zenodo.10552383
+
